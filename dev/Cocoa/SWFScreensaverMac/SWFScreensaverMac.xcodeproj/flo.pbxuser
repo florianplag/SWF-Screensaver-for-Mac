@@ -60,6 +60,7 @@
 			5C2A25A310754E84001F8C9C = 5C2A25A310754E84001F8C9C /* PlistBookmark */;
 			5C3DEE1210CC601F00CE1BDD /* PBXTextBookmark */ = 5C3DEE1210CC601F00CE1BDD /* PBXTextBookmark */;
 			5C3DEE1610CC603D00CE1BDD /* PBXTextBookmark */ = 5C3DEE1610CC603D00CE1BDD /* PBXTextBookmark */;
+			5C3DEE1710CC607E00CE1BDD /* PBXTextBookmark */ = 5C3DEE1710CC607E00CE1BDD /* PBXTextBookmark */;
 			5C81D4D310BF27B800E7066A = 5C81D4D310BF27B800E7066A /* PBXTextBookmark */;
 			5C81D4D410BF27B800E7066A = 5C81D4D410BF27B800E7066A /* PBXTextBookmark */;
 			5CA714AF1075544D00D4A249 = 5CA714AF1075544D00D4A249 /* PBXTextBookmark */;
@@ -140,6 +141,16 @@
 		vrLen = 834;
 		vrLoc = 0;
 	};
+	5C3DEE1710CC607E00CE1BDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
+		name = "SWFScreensaverMacView.m: 17";
+		rLen = 0;
+		rLoc = 311;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
 	5C81D4D310BF27B800E7066A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = F50079790118B23001CA0E54 /* SWFScreensaverMacView.h */;
@@ -199,7 +210,7 @@
 	F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {811, 5993}}";
-			sepNavSelRange = "{150, 0}";
+			sepNavSelRange = "{311, 0}";
 			sepNavVisRange = "{0, 834}";
 			sepNavWindowFrame = "{{38, 34}, {863, 718}}";
 		};
