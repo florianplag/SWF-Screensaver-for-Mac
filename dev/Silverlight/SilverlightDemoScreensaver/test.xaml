@@ -1,0 +1,12 @@
+<Canvas
+   xmlns="http://schemas.microsoft.com/client/2007"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+       
+    <TextBlock x:Name="Hello" Canvas.Left="10" Canvas.Top="50"   Foreground="#00A0E3" Text="Hello World from Silverlight (SWF Screensaver for Mac)" MouseLeftButtonUp="ClickMe"  FontSize="30"/>
+  
+
+</Canvas> 
+
+
+                   
+
