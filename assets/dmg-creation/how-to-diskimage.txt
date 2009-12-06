@@ -1,0 +1,6 @@
+How to create a disk image?
+hdiutil create -size 10000k swf-screensaver-mac.dmg -type SPARSE -fs HFS+
+
+How to set a background picture for the DMG file?
+a) Copy the background picture in the mounted disk image
+b) SetFile -a V dmg-background.png
