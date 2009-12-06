@@ -1,0 +1,42 @@
+8
+
+dir
+9
+http://svn.assembla.com/svn/swfscreensaver/dev/Flash/screensaver-3d/five3D/utils
+http://svn.assembla.com/svn/swfscreensaver
+
+
+
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+
+
+svn:special svn:externals svn:needs-lock
+
+ObjectUtilities.as
+file
+
+
+
+
+2008-04-27T17:03:28.000000Z
+3402404f34024b9be2d02f0c2e849703
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+
+Drawing.as
+file
+
+
+
+
+2008-04-27T17:03:34.000000Z
+2c502f833236b4c103ce2cc53b43e435
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+

@@ -1,0 +1,42 @@
+8
+
+dir
+9
+http://svn.assembla.com/svn/swfscreensaver/dev/Flash/screensaver-3d/five3D/geom
+http://svn.assembla.com/svn/swfscreensaver
+
+
+
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+
+
+svn:special svn:externals svn:needs-lock
+
+Point3D.as
+file
+
+
+
+
+2008-04-27T17:04:02.000000Z
+7652a8163ef3da7e5d7bf48878d41fb4
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+
+Matrix3D.as
+file
+
+
+
+
+2008-04-27T17:04:06.000000Z
+87a5d6dc3add805b963239179d1f9b61
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+

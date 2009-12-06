@@ -1,0 +1,81 @@
+8
+
+dir
+9
+http://svn.assembla.com/svn/swfscreensaver/dev/Flash/screensaver-3d/five3D/typography
+http://svn.assembla.com/svn/swfscreensaver
+
+
+
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+
+
+svn:special svn:externals svn:needs-lock
+
+HelveticaRoman.as
+file
+
+
+
+
+2008-04-27T17:03:40.000000Z
+c316773fec264d0b6e69932eb26c17a6
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+
+HelveticaBold.as
+file
+
+
+
+
+2008-04-27T17:03:54.000000Z
+1f23c4d7232c84f037e34787181c7309
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+
+HelveticaMedium.as
+file
+
+
+
+
+2008-04-27T17:03:44.000000Z
+ff451380f0cde804802ec8919a32d351
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+
+use of fonts.txt
+file
+
+
+
+
+2007-08-23T08:07:42.000000Z
+86c16a58ee4410532fdccedbd6ac1d7d
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+
+HelveticaLight.as
+file
+
+
+
+
+2008-04-27T17:03:48.000000Z
+2138a05183acb06b70569d5ce029ed67
+2008-07-13T19:28:17.625947Z
+9
+swfscreensaver
+has-props
+
