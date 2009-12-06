@@ -1,0 +1,83 @@
+8
+
+dir
+18
+http://svn.assembla.com/svn/swfscreensaver/dev/Flash/screensaver-online-offline
+http://svn.assembla.com/svn/swfscreensaver
+
+
+
+2008-08-30T23:08:33.849096Z
+18
+swfscreensaver
+
+
+svn:special svn:externals svn:needs-lock
+
+screensaver-online.swf
+file
+
+
+
+
+2008-08-30T15:35:21.000000Z
+5455a6be3106c84eac901107727553e6
+2008-08-30T23:08:33.849096Z
+18
+swfscreensaver
+has-props
+
+screensaver-offline.fla
+file
+
+
+
+
+2008-08-30T15:39:09.000000Z
+c6e6101081332c0bd2eb2837436ab755
+2008-08-30T23:08:33.849096Z
+18
+swfscreensaver
+has-props
+
+screensaver-online.fla
+file
+
+
+
+
+2008-08-30T15:39:00.000000Z
+922b7f5eb84006119c687093d967abdc
+2008-08-30T23:08:33.849096Z
+18
+swfscreensaver
+has-props
+
+Info.plist
+file
+
+
+
+
+2008-08-30T15:32:08.000000Z
+b4c9e030d55c1b9cb8530fce2346f34a
+2008-08-30T23:08:33.849096Z
+18
+swfscreensaver
+
+gs
+dir
+
+screensaver-offline.swf
+file
+
+
+
+
+2008-08-28T20:12:49.000000Z
+42f14d18483040cba9458dfdc81f27be
+2008-08-30T23:08:33.849096Z
+18
+swfscreensaver
+has-props
+
