@@ -3,7 +3,7 @@
 //  SWFScreensaverMac
 //
 //  Created by Florian on 01.10.09.
-//  Copyright (c) 2009, __MyCompanyName__. All rights reserved.
+//  Licensed under http://www.mozilla.org/MPL/MPL-1.1.html
 //
 
 #import "SWFScreensaverMacView.h"
