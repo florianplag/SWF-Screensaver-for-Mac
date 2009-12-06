@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>SWFScreensaverMac</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yourcompany.SWFScreensaverMac</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>SWFScreensaverMac</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2008, Florian Plag, www.video-flash.de</string>
+	<key>NSPrincipalClass</key>
+	<string>SWFScreensaverMacView</string>
+	<key>com.florianplag.CheckIfOnline</key>
+	<string>false</string>
+	<key>com.florianplag.ConfigFile</key>
+	<string>/Contents/Resources/config.html</string>
+	<key>com.florianplag.Creator</key>
+	<string>www.video-flash.de</string>
+	<key>com.florianplag.DebugMode</key>
+	<string>true</string>
+	<key>com.florianplag.InfoText</key>
+	<string>true</string>
+	<key>com.florianplag.InteractiveMode</key>
+	<string>true</string>
+	<key>com.florianplag.OnlineCheckServername</key>
+	<string>www.yourserver.com</string>
+	<key>com.florianplag.ScreensaverFile</key>
+	<string>/Contents/Resources/screensaver.html</string>
+	<key>com.florianplag.ScreensaverFileOnlineCheckFailed</key>
+	<string>/Contents/Resources/screensaver-offline.html</string>
+</dict>
+</plist>

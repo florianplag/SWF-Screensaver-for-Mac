@@ -1,0 +1,55 @@
+8
+
+dir
+6
+http://svn.assembla.com/svn/swfscreensaver/dev/SWF%20Screensaver%20for%20Mac/ConfigureSheet.nib
+http://svn.assembla.com/svn/swfscreensaver
+
+
+
+2008-07-13T12:24:33.044667Z
+2
+swfscreensaver
+
+
+svn:special svn:externals svn:needs-lock
+
+info.nib
+file
+10
+
+
+
+2008-07-13T19:54:54.000000Z
+1ba98bce41ab62099c233e7ea167a752
+2008-07-13T21:23:54.957696Z
+10
+swfscreensaver
+has-props
+
+keyedobjects.nib
+file
+10
+
+
+
+2008-07-13T19:54:54.000000Z
+1137a1b6d36eb5126a29a2062c5bf073
+2008-07-13T21:23:54.957696Z
+10
+swfscreensaver
+has-props
+
+classes.nib
+file
+
+
+
+
+2008-07-07T20:41:38.000000Z
+d1b14814e7ddfa43dda213ddabcc294f
+2008-07-13T12:24:33.044667Z
+2
+swfscreensaver
+has-props
+

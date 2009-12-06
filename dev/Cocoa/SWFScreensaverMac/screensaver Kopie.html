@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>SWF Screensaver for Mac :: www.video-flash.de</title>		
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />		
+		<script type="text/javascript" src="swfobject.js"></script>
+		
+		
+		<!-- 
+		quit function for interactive mode (called from ExternalInterface)    
+		-->		
+		<script type="text/javascript">
+		function quit() {
+		   swfscreensaver.quitScreenSaver(); 
+		}		
+		</script>
+
+
+		<!--
+		Differentiate between preview mode in the system preferences and regular fullscreen mode
+		-->
+		<script type="text/javascript">		
+		if (swfscreensaver.previewMode) {
+			// do something in preview mode
+		} 
+		else {
+			// do something when the screensaver is actually running
+		}
+		</script>
+
+		<!--
+		Starting with SWFObject
+		-->
+		<script type="text/javascript">		
+		var flashvars = {};     
+		
+			// If you have flashvars, put them here ... 
+				//flashvars.myvar = "";
+             
+	    var params = {};
+		
+			// Choose between different scale modes:
+			// showall (default), noscale, noborder, exactfit
+				params.scale = "showall";
+				
+			// allow script access for ExternalInterface (important for interactive mode)
+			 params.allowscriptaccess = "always";	
+
+			// How to align the content?
+			// l, t, r, b, tl, tr, bl, br (left, top, right, bottom, combinations etc.)
+			//params.salign = "tr";
+
+			// Choose your background color
+			params.bgcolor = "#000000";
+
+
+	    var attributes = {};
+	        attributes.align = "left";
+		
+			
+		// In this line, change the requiered Flash Player version (here it's 9)
+		swfobject.embedSWF("screensaver.swf", "myContent", "100%", "100%", "9.0.0", "", flashvars, params, attributes);
+
+		</script>
+		
+	</head>
+	
+	<body style="margin:0px;overflow:hidden">
+		<div id="myContent">
+		
+			<!-- Place an Flash Player Error message here (HTML) -->
+			<h1>No Flash Player / Flash Player too old</h1>
+			<p>Please install Flash Player</p>
+			<!-- ::::::::::::: -->
+			
+			
+		</div>
+	</body>
+</html>

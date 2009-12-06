@@ -1,0 +1,185 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D255AC50486D3F9007BF209 /* SWFScreensaverMac */;
+		addToTargets = (
+			8D255AC50486D3F9007BF209 /* SWFScreensaverMac */,
+		);
+		codeSenseManager = 5C2A256010754A2A001F8C9C /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					633,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					616,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 281826876;
+			PBXWorkspaceStateSaveDate = 281826876;
+		};
+		perUserProjectItems = {
+			5C159AB910CC565D000CDC2F /* PBXTextBookmark */ = 5C159AB910CC565D000CDC2F /* PBXTextBookmark */;
+			5C2A25A310754E84001F8C9C /* PlistBookmark */ = 5C2A25A310754E84001F8C9C /* PlistBookmark */;
+			5C81D4D310BF27B800E7066A /* PBXTextBookmark */ = 5C81D4D310BF27B800E7066A /* PBXTextBookmark */;
+			5C81D4D410BF27B800E7066A /* PBXTextBookmark */ = 5C81D4D410BF27B800E7066A /* PBXTextBookmark */;
+			5C81D50310BF2B6000E7066A /* PBXTextBookmark */ = 5C81D50310BF2B6000E7066A /* PBXTextBookmark */;
+			5CA714AF1075544D00D4A249 /* PBXTextBookmark */ = 5CA714AF1075544D00D4A249 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5C2A255F10754A2A001F8C9C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5C159AB910CC565D000CDC2F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
+		name = "SWFScreensaverMacView.m: 182";
+		rLen = 0;
+		rLoc = 5232;
+		rType = 0;
+		vrLen = 1252;
+		vrLoc = 2503;
+	};
+	5C2A255F10754A2A001F8C9C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5C2A256010754A2A001F8C9C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5C2A256110754A5C001F8C9C /* swfobject.js */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {70509, 295}}";
+			sepNavSelRange = "{10220, 0}";
+			sepNavVisRange = "{0, 10220}";
+			sepNavWindowFrame = "{{15, 55}, {863, 718}}";
+		};
+	};
+	5C2A256810754AA2001F8C9C /* screensaver.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 1157}}";
+			sepNavSelRange = "{994, 0}";
+			sepNavVisRange = "{0, 1213}";
+			sepNavWindowFrame = "{{15, 279}, {863, 718}}";
+		};
+	};
+	5C2A25A310754E84001F8C9C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D255AD20486D3F9007BF209 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	5C81D4D310BF27B800E7066A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F50079790118B23001CA0E54 /* SWFScreensaverMacView.h */;
+		name = "SWFScreensaverMacView.h: 23";
+		rLen = 0;
+		rLoc = 492;
+		rType = 0;
+		vrLen = 985;
+		vrLoc = 160;
+	};
+	5C81D4D410BF27B800E7066A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5C2A256810754AA2001F8C9C /* screensaver.html */;
+		name = "screensaver.html: 36";
+		rLen = 0;
+		rLoc = 994;
+		rType = 0;
+		vrLen = 1213;
+		vrLoc = 0;
+	};
+	5C81D50310BF2B6000E7066A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
+		name = "SWFScreensaverMacView.m: 182";
+		rLen = 0;
+		rLoc = 5232;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 4620;
+	};
+	5CA714AF1075544D00D4A249 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5C2A256110754A5C001F8C9C /* swfobject.js */;
+		name = "swfobject.js: 4";
+		rLen = 0;
+		rLoc = 10220;
+		rType = 0;
+		vrLen = 10220;
+		vrLoc = 0;
+	};
+	8D255AC50486D3F9007BF209 /* SWFScreensaverMac */ = {
+		activeExec = 0;
+	};
+	8D255AD20486D3F9007BF209 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 60}, {863, 718}}";
+		};
+	};
+	F50079790118B23001CA0E54 /* SWFScreensaverMacView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {811, 715}}";
+			sepNavSelRange = "{492, 0}";
+			sepNavVisRange = "{160, 985}";
+			sepNavWindowFrame = "{{47, 120}, {671, 508}}";
+		};
+	};
+	F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 5902}}";
+			sepNavSelRange = "{5232, 0}";
+			sepNavVisRange = "{2503, 1252}";
+			sepNavWindowFrame = "{{38, 34}, {863, 718}}";
+		};
+	};
+}

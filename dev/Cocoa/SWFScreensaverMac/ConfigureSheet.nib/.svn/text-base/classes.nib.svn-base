@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IBClasses</key>
+	<array>
+		<dict>
+			<key>ACTIONS</key>
+			<dict>
+				<key>infoText</key>
+				<string>id</string>
+				<key>okClick</key>
+				<string>id</string>
+			</dict>
+			<key>CLASS</key>
+			<string>MyScreenSaverView</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>OUTLETS</key>
+			<dict>
+				<key>configSheet</key>
+				<string>id</string>
+				<key>showConfig</key>
+				<string>id</string>
+				<key>showInfoPic</key>
+				<string>id</string>
+				<key>showInfoText</key>
+				<string>id</string>
+			</dict>
+			<key>SUPERCLASS</key>
+			<string>ScreenSaverView</string>
+		</dict>
+		<dict>
+			<key>CLASS</key>
+			<string>ScreenSaverView</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>SUPERCLASS</key>
+			<string>NSObject</string>
+		</dict>
+		<dict>
+			<key>CLASS</key>
+			<string>FirstResponder</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>SUPERCLASS</key>
+			<string>NSObject</string>
+		</dict>
+		<dict>
+			<key>CLASS</key>
+			<string>NSPanel</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>SUPERCLASS</key>
+			<string>NSWindow</string>
+		</dict>
+	</array>
+	<key>IBVersion</key>
+	<string>1</string>
+</dict>
+</plist>
