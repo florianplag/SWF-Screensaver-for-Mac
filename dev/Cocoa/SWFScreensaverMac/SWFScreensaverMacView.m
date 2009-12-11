@@ -252,12 +252,7 @@ NSImage *imageFromBundle;
 	// check company
 	NSDictionary *infoDict = [pMainBundle infoDictionary];
 	
-	NSString *myCompany = [infoDict objectForKey:@"com.florianplag.Creator"];
-	
-	if ([myCompany isEqualToString:@"http://www.video-flash.de"]) {
-		[showInfoText setStringValue:@""];
-	}
-	
+
 	
 	
 	
