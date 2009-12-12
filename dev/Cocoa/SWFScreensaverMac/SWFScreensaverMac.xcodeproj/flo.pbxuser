@@ -52,21 +52,16 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 282239377;
-			PBXWorkspaceStateSaveDate = 282239377;
+			PBXPerProjectTemplateStateSaveDate = 282331279;
+			PBXWorkspaceStateSaveDate = 282331279;
 		};
 		perUserProjectItems = {
 			5C2A25A310754E84001F8C9C = 5C2A25A310754E84001F8C9C /* PlistBookmark */;
 			5C81D4D410BF27B800E7066A = 5C81D4D410BF27B800E7066A /* PBXTextBookmark */;
 			5CA714AF1075544D00D4A249 = 5CA714AF1075544D00D4A249 /* PBXTextBookmark */;
-			5CE0E97D10D2A18300ED1B1A = 5CE0E97D10D2A18300ED1B1A /* PBXTextBookmark */;
-			5CE0E98810D2A19800ED1B1A /* PBXTextBookmark */ = 5CE0E98810D2A19800ED1B1A /* PBXTextBookmark */;
-			5CE0E98F10D2A1C600ED1B1A /* XCBuildMessageTextBookmark */ = 5CE0E98F10D2A1C600ED1B1A /* XCBuildMessageTextBookmark */;
-			5CE0E99010D2A1C600ED1B1A /* PBXTextBookmark */ = 5CE0E99010D2A1C600ED1B1A /* PBXTextBookmark */;
-			5CE0E99310D2A21000ED1B1A /* XCBuildMessageTextBookmark */ = 5CE0E99310D2A21000ED1B1A /* XCBuildMessageTextBookmark */;
-			5CE0E99410D2A21000ED1B1A /* PBXTextBookmark */ = 5CE0E99410D2A21000ED1B1A /* PBXTextBookmark */;
+			5CE0E99310D2A21000ED1B1A = 5CE0E99310D2A21000ED1B1A /* PBXTextBookmark */;
+			5CE0E99510D2A2DE00ED1B1A = 5CE0E99510D2A2DE00ED1B1A /* PBXTextBookmark */;
 			5CE9578310CC63E8000E680B = 5CE9578310CC63E8000E680B /* PBXTextBookmark */;
-			5CE9578410CC63E8000E680B = 5CE9578410CC63E8000E680B /* PBXTextBookmark */;
 		};
 		sourceControlManager = 5C2A255F10754A2A001F8C9C /* Source Control */;
 		userBuildSettings = {
@@ -133,63 +128,23 @@
 		vrLen = 10220;
 		vrLoc = 0;
 	};
-	5CE0E97D10D2A18300ED1B1A /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
-		name = "SWFScreensaverMacView.m: 393";
-		rLen = 0;
-		rLoc = 9894;
-		rType = 0;
-		vrLen = 1281;
-		vrLoc = 8971;
-	};
-	5CE0E98810D2A19800ED1B1A /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
-		name = "SWFScreensaverMacView.m: 393";
-		rLen = 0;
-		rLoc = 9894;
-		rType = 0;
-		vrLen = 1370;
-		vrLoc = 9003;
-	};
-	5CE0E98F10D2A1C600ED1B1A /* XCBuildMessageTextBookmark */ = {
+	5CE0E99310D2A21000ED1B1A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		comments = "'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)";
 		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
 		rLoc = 62;
 		rType = 1;
 	};
-	5CE0E99010D2A1C600ED1B1A /* PBXTextBookmark */ = {
+	5CE0E99510D2A2DE00ED1B1A /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
-		name = "SWFScreensaverMacView.m: 63";
+		name = "SWFScreensaverMacView.m: 256";
 		rLen = 0;
-		rLoc = 1649;
+		rLoc = 6376;
 		rType = 0;
-		vrLen = 375;
-		vrLoc = 1423;
-	};
-	5CE0E99310D2A21000ED1B1A /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)";
-		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 62;
-		rType = 1;
-	};
-	5CE0E99410D2A21000ED1B1A /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
-		name = "SWFScreensaverMacView.m: 247";
-		rLen = 0;
-		rLoc = 6226;
-		rType = 0;
-		vrLen = 929;
-		vrLoc = 6035;
+		vrLen = 935;
+		vrLoc = 5864;
 	};
 	5CE9578310CC63E8000E680B /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -200,16 +155,6 @@
 		rType = 0;
 		vrLen = 762;
 		vrLoc = 378;
-	};
-	5CE9578410CC63E8000E680B /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */;
-		name = "SWFScreensaverMacView.m: 393";
-		rLen = 0;
-		rLoc = 9894;
-		rType = 0;
-		vrLen = 725;
-		vrLoc = 10660;
 	};
 	8D255AC50486D3F9007BF209 /* SWFScreensaverMac */ = {
 		activeExec = 0;
@@ -229,9 +174,9 @@
 	};
 	F500797A0118B23001CA0E54 /* SWFScreensaverMacView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1048, 6253}}";
-			sepNavSelRange = "{6226, 0}";
-			sepNavVisRange = "{6035, 929}";
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 6084}}";
+			sepNavSelRange = "{6376, 0}";
+			sepNavVisRange = "{5864, 935}";
 			sepNavWindowFrame = "{{38, 34}, {863, 718}}";
 		};
 	};

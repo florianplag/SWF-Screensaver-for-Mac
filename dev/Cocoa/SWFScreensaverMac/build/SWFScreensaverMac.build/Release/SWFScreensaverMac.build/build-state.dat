@@ -1,7 +1,7 @@
 TSWFScreensaverMac
 v7
 r0
-t282239499.851470
+t282331697.383974
 cCheck dependencies
 cProcessInfoPlistFile "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Info.plist" Info.plist
 cCopyStringsFile "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
@@ -15,10 +15,10 @@ cProcessPCH /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode
 cProcessPCH /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-dvcdawzsnksolphdcljrkmnjwfng/SWFScreensaverMac_Prefix.pch.gch SWFScreensaverMac_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 cProcessPCH /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-ekvstzedhhxcllejrafdgknkhhes/SWFScreensaverMac_Prefix.pch.gch SWFScreensaverMac_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
 cCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMacView.o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 cLd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac" normal x86_64
-cCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 cLd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac" normal i386
+cCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
 cLd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac" normal ppc
 cCreateUniversalBinary "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac" normal "x86_64 i386 ppc"
 cGenerateDSYMFile "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver.dSYM" "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac"
@@ -249,8 +249,8 @@ i<WebKit/WebKit.h>
 i<SystemConfiguration/SystemConfiguration.h>
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m
-c000000004B226A880000000000002BC4
-t1260546696
+c000000004B226A8D0000000000002BC4
+t1260546701
 s11204
 i"SWFScreensaverMacView.h"
 i<WebKit/WebKit.h>
@@ -264,19 +264,19 @@ i<Foundation/Foundation.h>
 i<AppKit/AppKit.h>
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver
-t1260546699
+t1260638897
 s102
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver.dSYM
-t1260546699
+t1260638769
 s102
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Info.plist
-t1259270832
-s1638
+t1260638897
+s1639
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac
-t1260546699
+t1260638768
 s84168
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Resources/ConfigureSheet.nib
@@ -296,8 +296,8 @@ t1259270832
 s32708
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Resources/screensaver.html
-t1259270832
-s2268
+t1260638897
+s2270
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Resources/screensaver.swf
 t1259270832
@@ -308,7 +308,7 @@ t1259270832
 s10220
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac
-t1260546699
+t1260638764
 s27520
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac.LinkFileList
@@ -317,11 +317,11 @@ t1260134081
 s198
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o
-t1260546699
+t1260638762
 s41172
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac
-t1260546699
+t1260638768
 s26824
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac.LinkFileList
@@ -330,11 +330,11 @@ t1260134081
 s197
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o
-t1260546699
+t1260638768
 s43564
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac
-t1260546699
+t1260638763
 s23816
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac.LinkFileList
@@ -343,7 +343,7 @@ t1260134081
 s200
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMacView.o
-t1260546699
+t1260638761
 s52336
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/config.html
@@ -357,9 +357,9 @@ t1223041425
 s32708
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/screensaver.html
-c000000004AF0914500000000000008DC
-t1257279813
-s2268
+c000000004B23D23400000000000008DE
+t1260638772
+s2270
 
 N/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/screensaver.swf
 c00000000487A59DA0000000000007C0F
@@ -396,13 +396,13 @@ t1259270842
 s52223760
 
 NInfo.plist
-c000000004AEEF809000000000000069E
-t1257175049
-s1694
+c000000004B23D2AB000000000000069F
+t1260638891
+s1695
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies282239498#282239498#0(0"0(0#1#0"2510314816#0"0#
+lSLF07#2@18"Check dependencies282331697#282331697#0(0"0(0#1#0"2510314816#0"0#
 
 CCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s280963646.176657
@@ -420,8 +420,8 @@ o/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/
 lSLF07#2@110"Compile /Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m280963646#280963646#0(440"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)1(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)280963646#169#271#0(6@102"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m280963386#63#0#63#0#33"'*' is deprecated (declared at *)0(0#0#102"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m2510314816#1563"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/i386" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-fikizwuabpzojpdhiibiflggasvw/SWFScreensaverMac_Prefix.pch -c "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o"0#
 
 CCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s282239498.851929
-e282239499.390998
+s282331545.120821
+e282331562.154395
 r1
 xCompileC
 xbuild/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o
@@ -432,7 +432,7 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 o/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':
 o/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)
-lSLF07#2@123"Compile /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239498#282239499#0(466"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)1(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)282239499#182#284#0(6@115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239496#63#0#63#0#33"'*' is deprecated (declared at *)0(0#0#115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m2510314816#1667"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/i386" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-dvcdawzsnksolphdcljrkmnjwfng/SWFScreensaverMac_Prefix.pch -c "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o"0#
+lSLF07#2@123"Compile /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282331545#282331562#0(466"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)1(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)282331558#182#284#0(6@115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239501#63#0#63#0#33"'*' is deprecated (declared at *)0(0#0#115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m2510314816#1667"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/i386" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-dvcdawzsnksolphdcljrkmnjwfng/SWFScreensaverMac_Prefix.pch -c "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMacView.o"0#
 
 CCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
 s280963646.727005
@@ -450,8 +450,8 @@ o/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/
 lSLF07#2@110"Compile /Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m280963646#280963647#0(440"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)1(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)280963646#169#271#0(6@102"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m280963386#63#0#63#0#33"'*' is deprecated (declared at *)0(0#0#102"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m2510314816#1557"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/ppc" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-ffcizdktphqjpcbnywfuyyrgblxe/SWFScreensaverMac_Prefix.pch -c "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o"0#
 
 CCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal ppc objective-c com.apple.compilers.gcc.4_2
-s282239499.348265
-e282239499.797704
+s282331563.914469
+e282331568.567453
 r1
 xCompileC
 xbuild/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o
@@ -462,7 +462,7 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 o/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':
 o/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)
-lSLF07#2@123"Compile /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239499#282239499#0(466"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)1(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)282239499#182#284#0(6@115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239496#63#0#63#0#33"'*' is deprecated (declared at *)0(0#0#115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m2510314816#1661"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/ppc" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-ekvstzedhhxcllejrafdgknkhhes/SWFScreensaverMac_Prefix.pch -c "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o"0#
+lSLF07#2@123"Compile /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282331563#282331568#0(466"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)1(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:352)282331567#182#284#0(6@115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239501#63#0#63#0#33"'*' is deprecated (declared at *)0(0#0#115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m2510314816#1661"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/ppc" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-ekvstzedhhxcllejrafdgknkhhes/SWFScreensaverMac_Prefix.pch -c "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMacView.o"0#
 
 CCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMacView.o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s280963646.175469
@@ -482,8 +482,8 @@ o/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/
 lSLF07#2@110"Compile /Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m280963646#280963646#0(862"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function 'checkOnline':/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:304: warning: 'SCNetworkCheckReachabilityByName' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetwork.h:178)2(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)280963646#169#271#0(6@102"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m280963386#63#0#63#0#33"'*' is deprecated (declared at *)0(22@173"'SCNetworkCheckReachabilityByName' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetwork.h:178)280963646#571#291#0(6@102"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m280963386#304#0#304#0#33"'*' is deprecated (declared at *)0(0#0#102"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m2510314816#1569"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/x86_64" "-I/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-cukaizizehsuznaunioiclduwtcr/SWFScreensaverMac_Prefix.pch -c "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMacView.o"0#
 
 CCompileC build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMacView.o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s282239498.503220
-e282239499.305613
+s282331545.119688
+e282331561.262551
 r1
 xCompileC
 xbuild/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMacView.o
@@ -496,7 +496,7 @@ o/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFSc
 o/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)
 o/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function 'checkOnline':
 o/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:299: warning: 'SCNetworkCheckReachabilityByName' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetwork.h:178)
-lSLF07#2@123"Compile /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239498#282239499#0(914"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function 'checkOnline':/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:299: warning: 'SCNetworkCheckReachabilityByName' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetwork.h:178)2(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)282239499#182#284#0(6@115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239496#63#0#63#0#33"'*' is deprecated (declared at *)0(22@173"'SCNetworkCheckReachabilityByName' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetwork.h:178)282239499#610#304#0(6@115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239496#299#0#299#0#33"'*' is deprecated (declared at *)0(0#0#115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m2510314816#1673"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/x86_64" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-dsacngivasaiuzeeatrbwkulxzzz/SWFScreensaverMac_Prefix.pch -c "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMacView.o"0#
+lSLF07#2@123"Compile /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282331545#282331561#0(914"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function '-[SWFScreensaverMacView initWithFrame:isPreview:]':/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:63: warning: 'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m: In function 'checkOnline':/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m:299: warning: 'SCNetworkCheckReachabilityByName' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetwork.h:178)2(22@154"'writeToFile:atomically:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:374)282331556#182#284#0(6@115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239501#63#0#63#0#33"'*' is deprecated (declared at *)0(22@173"'SCNetworkCheckReachabilityByName' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetwork.h:178)282331557#610#304#0(6@115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m282239501#299#0#299#0#33"'*' is deprecated (declared at *)0(0#0#115"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m4371640#1673"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/SWFScreensaverMac.hmap" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/include" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources/x86_64" "-I/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/DerivedSources" -include /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-dsacngivasaiuzeeatrbwkulxzzz/SWFScreensaverMac_Prefix.pch -c "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/SWFScreensaverMacView.m" -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMacView.o"0#
 
 CCopyStringsFile "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
 s280963632.866162
@@ -529,13 +529,13 @@ xconfig.swf
 lSLF07#2@15"Copy config.swf280963632#280963632#0(0"0(0#0#89"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/config.swf2510314816#487"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/config.swf" "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Resources"0#
 
 CCpResource build/Release/SWFScreensaverMac.saver/Contents/Resources/screensaver.html screensaver.html
-s280963632.872901
-e280963632.885883
+s282331697.321697
+e282331697.354404
 r1
 xCpResource
 xbuild/Release/SWFScreensaverMac.saver/Contents/Resources/screensaver.html
 xscreensaver.html
-lSLF07#2@21"Copy screensaver.html280963632#280963632#0(0"0(0#0#95"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/screensaver.html2510314816#493"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/screensaver.html" "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Resources"0#
+lSLF07#2@21"Copy screensaver.html282331697#282331697#0(0"0(0#0#108"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/screensaver.html2510314816#532"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/screensaver.html" "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Resources"0#
 
 CCpResource build/Release/SWFScreensaverMac.saver/Contents/Resources/screensaver.swf screensaver.swf
 s280963632.867089
@@ -566,14 +566,14 @@ xx86_64 i386 ppc
 lSLF07#2@117"CreateUniversalBinary build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac normal "x86_64 i386 ppc"280963647#280963647#0(0"0(0#0#94"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/x86_64 i386 ppc2510314816#818"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    /usr/bin/lipo -create "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac" "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac" "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac" -output "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac"0#
 
 CCreateUniversalBinary "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac" normal "x86_64 i386 ppc"
-s282239499.829121
-e282239499.832895
+s282331568.866628
+e282331568.931067
 r1
 xCreateUniversalBinary
 x/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac
 xnormal
 xx86_64 i386 ppc
-lSLF07#2@117"CreateUniversalBinary build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac normal "x86_64 i386 ppc"282239499#282239499#0(0"0(0#0#107"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/x86_64 i386 ppc2510314816#883"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    /usr/bin/lipo -create "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac" "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac" "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac" -output "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac"0#
+lSLF07#2@117"CreateUniversalBinary build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac normal "x86_64 i386 ppc"282331568#282331568#0(0"0(0#0#107"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/x86_64 i386 ppc2510314816#883"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    /usr/bin/lipo -create "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac" "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac" "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac" -output "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac"0#
 
 CGenerateDSYMFile "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver.dSYM" "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac"
 s280963647.396570
@@ -585,13 +585,13 @@ x/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/
 lSLF07#2@130"GenerateDSYMFile build/Release/SWFScreensaverMac.saver.dSYM build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac280963647#280963647#0(0"0(0#0#149"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac2510314816#399"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    /Developer/usr/bin/dsymutil "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac" -o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver.dSYM"0#
 
 CGenerateDSYMFile "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver.dSYM" "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac"
-s282239499.833000
-e282239499.847976
+s282331568.931174
+e282331569.047914
 r1
 xGenerateDSYMFile
 x/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver.dSYM
 x/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac
-lSLF07#2@130"GenerateDSYMFile build/Release/SWFScreensaverMac.saver.dSYM build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac282239499#282239499#0(0"0(0#0#162"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac2510314816#438"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    /Developer/usr/bin/dsymutil "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac" -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver.dSYM"0#
+lSLF07#2@130"GenerateDSYMFile build/Release/SWFScreensaverMac.saver.dSYM build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac282331568#282331569#0(0"0(0#0#162"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac2510314816#438"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    /Developer/usr/bin/dsymutil "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/MacOS/SWFScreensaverMac" -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver.dSYM"0#
 
 CLd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac" normal i386
 s280963646.681477
@@ -624,34 +624,34 @@ xx86_64
 lSLF07#2@185"Link /Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac280963646#280963647#0(0"0(0#0#0"2510314816#943"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-F/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release" -filelist "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -framework WebKit -framework CoreData -framework SystemConfiguration -o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac"0#
 
 CLd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac" normal i386
-s282239499.391102
-e282239499.429968
+s282331562.154679
+e282331564.202422
 r1
 xLd
 x/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac
 xnormal
 xi386
-lSLF07#2@196"Link /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac282239499#282239499#0(0"0(0#0#0"2510314816#1002"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" -filelist "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework ScreenSaver -framework WebKit -framework CoreData -framework SystemConfiguration -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac"0#
+lSLF07#2@196"Link /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac282331562#282331564#0(0"0(0#0#0"2510314816#1002"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" -filelist "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework ScreenSaver -framework WebKit -framework CoreData -framework SystemConfiguration -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/i386/SWFScreensaverMac"0#
 
 CLd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac" normal ppc
-s282239499.797801
-e282239499.829016
+s282331568.567634
+e282331568.866522
 r1
 xLd
 x/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac
 xnormal
 xppc
-lSLF07#2@195"Link /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac282239499#282239499#0(0"0(0#0#0"2510314816#999"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" -filelist "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework ScreenSaver -framework WebKit -framework CoreData -framework SystemConfiguration -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac"0#
+lSLF07#2@195"Link /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac282331568#282331568#0(0"0(0#0#0"2510314816#999"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" -filelist "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework ScreenSaver -framework WebKit -framework CoreData -framework SystemConfiguration -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/ppc/SWFScreensaverMac"0#
 
 CLd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac" normal x86_64
-s282239499.305724
-e282239499.348146
+s282331561.262751
+e282331563.914306
 r1
 xLd
 x/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac
 xnormal
 xx86_64
-lSLF07#2@198"Link /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac282239499#282239499#0(0"0(0#0#0"2510314816#1008"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" -filelist "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -framework WebKit -framework CoreData -framework SystemConfiguration -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac"0#
+lSLF07#2@198"Link /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac282331561#282331563#0(0"0(0#0#0"4371640#1008"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" "-F/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release" -filelist "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework ScreenSaver -framework WebKit -framework CoreData -framework SystemConfiguration -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/SWFScreensaverMac.build/Release/SWFScreensaverMac.build/Objects-normal/x86_64/SWFScreensaverMac"0#
 
 CProcessInfoPlistFile "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Info.plist" Info.plist
 s280963632.859387
@@ -663,7 +663,13 @@ xInfo.plist
 lSLF07#2@18"Process Info.plist280963632#280963632#0(0"0(0#0#89"/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/Info.plist2510314816#308"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Info.plist"0#
 
 CProcessInfoPlistFile "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Info.plist" Info.plist
-r0
+s282331697.299895
+e282331697.321432
+r1
+xProcessInfoPlistFile
+x/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist282331697#282331697#0(0"0(0#0#102"/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/Info.plist2510314816#334"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver/Contents/Info.plist"0#
 
 CProcessPCH /var/folders/N5/N5eVM95EHKuLTbbhPTGU2++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SWFScreensaverMac_Prefix-cukaizizehsuznaunioiclduwtcr/SWFScreensaverMac_Prefix.pch.gch SWFScreensaverMac_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s280963633.047428
@@ -768,10 +774,10 @@ x/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/
 lSLF07#2@122"Touch /Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver280963647#280963647#0(0"0(0#0#0"2510314816#229"    cd "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac"    /usr/bin/touch -c "/Users/flo/Documents/XCode/SWF Screensaver for Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver"0#
 
 CTouch "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver"
-s282239499.848070
-e282239499.851265
+s282331697.355617
+e282331697.383921
 r1
 xTouch
 x/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver
-lSLF07#2@135"Touch /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver282239499#282239499#0(0"0(0#0#0"2510314816#255"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    /usr/bin/touch -c "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver"0#
+lSLF07#2@135"Touch /Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver282331697#282331697#0(0"0(0#0#0"2510314816#255"    cd "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac"    /usr/bin/touch -c "/Users/flo/FlashWorkspace/Git Workspace/SWF-Screensaver-for-Mac/dev/Cocoa/SWFScreensaverMac/build/Release/SWFScreensaverMac.saver"0#
 

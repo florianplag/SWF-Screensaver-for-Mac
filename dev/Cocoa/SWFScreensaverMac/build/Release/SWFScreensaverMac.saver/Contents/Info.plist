@@ -35,7 +35,7 @@
 	<key>com.florianplag.InfoText</key>
 	<string>true</string>
 	<key>com.florianplag.InteractiveMode</key>
-	<string>true</string>
+	<string>false</string>
 	<key>com.florianplag.OnlineCheckServername</key>
 	<string>www.yourserver.com</string>
 	<key>com.florianplag.ScreensaverFile</key>

@@ -13,7 +13,7 @@
 	<key>com.florianplag.DebugMode</key>
 	<string>true</string>
 	<key>com.florianplag.InteractiveMode</key>
-	<string>true</string>
+	<string>false</string>
 	<key>com.florianplag.InfoText</key>
 	<string>true</string>
 	<key>com.florianplag.OnlineCheckServername</key>
